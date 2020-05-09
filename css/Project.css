@@ -1,0 +1,70 @@
+/* Section one */
+
+#Home
+{
+    height: 100%;
+    background-image: url('../images/shutterstock_277750193.jpg');
+    background-size: 100% 100%;
+}
+#Home .headerContent .content-message
+{
+    font-family: 'Dancing Script';
+    font-size: 3rem;
+}
+#Home .headerContent .btn1
+{
+    background-color:#B48E58;
+}
+.bg-dark
+{
+    background-color: rgba(0,0,0,0.5)!important;
+}
+nav img
+{
+    width: 7%;
+}
+
+
+
+/* Section Two */
+.header-title
+{
+    font-size: 2rem;
+    font-family: 'Dancing Script';
+    color: #B98E58;
+}
+.Maintitle
+{
+    font-size: 3rem;
+    font-family: 'Dancing Script', ;
+    font-family: 'Lora';
+}
+
+
+
+
+/* section three */
+.Meal
+{
+    background-color: #B48E58;
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+}
+.knowMore
+{
+   border-radius: 1rem;
+   -webkit-border-radius: 1rem;
+   -moz-border-radius: 1rem;
+   -ms-border-radius: 1rem;
+   -o-border-radius: 1rem;
+}
+@media (min-width: 500px) and (max-width: 990px)
+{
+    .Meal
+    {
+        margin-bottom: 20px;
+    }
+}
